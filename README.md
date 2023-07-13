@@ -1,6 +1,6 @@
 # Regression-Toolbox
 This Microsoft Excel Maro Enabled Workbook has a user form that can be used to model regression problems.  
-Read the related article on my blog - (Click Here)[https://wordpress.com/post/peshalaprabhapoorna.wordpress.com/291]
+Read the related article on my blog - [Click Here](https://wordpress.com/post/peshalaprabhapoorna.wordpress.com/291)
 
 Regression Toolbox.xlsm - Contains the Regression Toolbox  
 Exam Data - STARTER.xlsx - Example data set  
